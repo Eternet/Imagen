@@ -1,1 +1,1 @@
-# ImagenCorporativa
+# Imagen
