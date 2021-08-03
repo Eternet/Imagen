@@ -1,1 +1,1 @@
-# Imagen
+# Imagen Corporativa
