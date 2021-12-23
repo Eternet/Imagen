@@ -1,6 +1,6 @@
 # Imagenes Banner Home Web Eternet
 
-En esta carpeta se encuentran alojadas las imagenes de el banner de la pagina principal de la web de eternet. El contenedor es de tamaño 960x400px.
+En esta carpeta se encuentran alojadas las imagenes del banner de la pagina principal de la web de eternet. El contenedor es de tamaño 960x400px.
 
 ### En orden de visualización
 
