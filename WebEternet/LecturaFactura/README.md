@@ -4,6 +4,6 @@ En esta carpeta se encuentra alojada la imagen de la factura que llega a los cli
 
 ### En orden de visualización
 
- * **FacturaB.jpg** Tamaño: 1600x1700
+ * **FacturaB.png** Tamaño: 1600x1700
  
  
