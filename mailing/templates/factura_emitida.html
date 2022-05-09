@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; ">
+    <meta charset="utf-8">
+    <title>Eternet: Aviso de Vencimiento</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Forzar initial-scale no es necesario -->
+    <meta content="IE"="edge" http-equiv="X-UA-Compatible" />
+    <!-- La ultima version de (edge) IE rendering engine -->
+    <link
+        href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Poppins:300,400,500,600,700|PT+Serif:400,400i&amp;display=swap"
+        rel="stylesheet" type="text/css">
+</head>
+<style>
+    .font-1 {font-size: 18px;}
+    .font-2 {font-size: 28px;}
+    .small {font-size: 18px;}
+    .tittle {font-size: 30px;}
+
+    @media (max-width: 992px) {
+    .font-1 {font-size: 16px;}
+    .font-2 {font-size: 22px;}
+    .small {font-size: 12px;}
+    .tittle {font-size: 24px;}
+    }
+</style>
+
+<body
+    style="max-width: 600px; font-family: Poppins !important; color: #000000;line-height: 25px; background-color: #fff !important; box-sizing: border-box; margin: 0px auto; padding: 25px; ">
+    <div>
+        <div class="font-1" style=" font-weight: 400; text-align: center; margin-bottom: 25px">
+            <p>¡Bienvenido <span style="font-weight: 700;">{{contacto}}</span>!</p>
+        </div>
+        <div style="padding: 0px;margin: 0px;line-height: -36px;">
+            <img style="width: 100%; border-radius: 8px; margin-bottom: 15px;"
+                src="https://cdn.eternet.cc/mailing/notificaciones/factura-digital/factura.jpg" alt="1° Vencimiento">
+        </div>
+        <div style="display: flex; max-width: 600px;">
+            <div
+                style="width: 50%; font-weight: 600; background-color: #f0f0f0; border-radius: 8px;padding: 20px 0px; text-align: center; margin-right: 10px;">
+                <p style="align-items: center;">
+                    <span class="font-1"
+                        style="display:block; margin-block-start: 0px; margin-block-end: 0px; margin-bottom: 10px;">Importe:</span>
+                    <span class="font-2" style="display:block; font-weight: 700; color: #FF5100;">{{total}}</span>
+                </p>
+            </div>
+            <div
+                style="width: 50%; font-weight: 600; background-color: #f0f0f0;border-radius: 8px;padding: 20px 0px; text-align: center; margin-left: 10px;">
+                <p style="align-items: center;">
+                    <span class="font-1"
+                        style="display:block; margin-block-start: 0px; margin-block-end: 0px; margin-bottom: 10px;">Vencimiento:</span>
+                    <span class="font-2" style="display:block; font-weight: 700; color: #FF5100;">{{fecha}}</span>
+                </p>
+            </div>
+        </div>
+        <div style="text-align: center; margin-top: 30px;">
+            <a class="font-1"
+                style="display: inline-block; color: #fff; text-decoration: none; font-weight: 500; background-color: #ff5100; padding: 7px 20px; border-radius: 50px;"
+                href="{{VerFactura}}>ver factura</a>
+        </div>
+        <img style="border-radius: 2px; width: 100%; height: 2px; margin-top: 30px;" alt="linea divisoria"
+            src="https://cdn.eternet.cc/mailing/images/line.gif">
+        <div style="max-width: 600px; min-width: 300px; text-align: center">
+            <img style="height: 50px; margin: 25px auto; display: inline-block;" class="mt m-auto"
+                src="https://cdn.eternet.cc/mailing/images/store.png" alt="">
+            <h2 class="tittle" style=" margin-block-start: 0px; margin-block-end: 0px; padding-bottom: 25px;">Lugares y
+                Medios de pago</h2>
+            <table style="display: inline-block; margin-left: auto; margin-right: auto">
+                <tr>
+                    <td>
+                        <p
+                            style=" font-weight: 600; color: #FF5100 !important; text-decoration: none !important; margin-block-start: 0px; margin-block-end: 0px;">
+                            <a style="text-decoration: none; color: #000000; cursor: pointer;"
+                                href="http://www.ripsa.com.ar/centros-de-pago#" target="_new">RIPSA</a>
+                            |
+                            <a style="text-decoration: none; color: #000000; cursor: pointer;"
+                                href="https://www.cobroexpress.com.ar/" target="_new">COBRO EXPRESS</a>
+                            |
+                            <a style="text-decoration: none; color: #000000; cursor: pointer;"
+                                href="https://www.rapipago.com.ar/rapipagoWeb/" target="_new">RAPIPAGO</a>
+                            <BR>
+                            <a style="text-decoration: none; color: #000000; cursor: pointer;"
+                                href="https://www.prontopago.com.ar/" target="_new">PRONTO PAGO</a>
+                            |
+                            <a style="text-decoration: none; color: #000000; cursor: pointer;"
+                                href="https://www.eternet.cc/EntidadesCobros.aspx" target="_new">ETERNET ON LINE</a>
+                        </p>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="box-info-gray"
+            style="max-width: 600px; ;background-color: #f0f0f0;border-radius: 8px;padding: 20px; margin-top: 5px; text-align: center;">
+            <p class="font-1" style=" font-weight: 400; margin-block-start: 0px; margin-block-end: 0px">En estos
+                medios, deberás indicar tu <strong style="font-weight: 500;">N° de cliente </strong><strong
+                    style="font-weight: 500; color: #FF5100;">{{id_cliente}}</strong></p>
+        </div>
+        <div style="max-width: 600px;  text-align: center;margin-top: 40px;">
+            <table style="display: inline-block; margin-left: auto; margin-right: auto;">
+                <tr>
+                    <td>
+                        <p
+                            style=" font-weight: 600; color: #FF5100 !important; text-decoration: none !important; margin-block-start: 0px; margin-block-end: 0px;">
+                            <a style="text-decoration: none; color: #000000; cursor: pointer;"
+                                href="https://pagomiscuentas.com/que-puedo-pagar" target="_new">PAGO MIS CUENTAS
+                                <small>(1)</small></a>
+                            |
+                            <a style="text-decoration: none; color: #000000; cursor: pointer;"
+                                href="https://www.e-pagofacil.com/#/" target="_new">PAGO FÁCIL <small>(2)</small></a>
+                        </p>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div
+            style="max-width: 600px;background-color: #f0f0f0;border-radius: 8px; padding: 20px; margin-top: 5px; text-align: center;">
+            <p class="font-1" style=" font-weight: 400; margin-block-start: 0px; margin-block-end: 0px">En estos
+                deberás contar con la factura ya que Pago Mis Cuentas <small>(1)</small> utiliza el <strong
+                    style="font-weight: 500;">código de pago
+                    electrónico</strong> y Pago Fácil <small>(2)</small> <strong style="font-weight: 500;">el código de
+                    barras.</strong></p>
+        </div>
+        <div style="max-width: 600px; text-align: center">
+            <img style="height: 50px; margin: 25px auto; display: inline-block;" class="mt m-auto"
+                src="https://cdn.eternet.cc/mailing/images/factura.png" alt="">
+            <h2 class="tittle" style=" margin-block-start: 0px; margin-block-end: 0px; padding-bottom: 25px;">Adherite
+                al débito automático</h2>
+            <div style="text-align: center;margin-bottom: 25px;">
+                <p class="font-1" style="font-weight: 400; margin-block-start: 0px;margin-block-end: 0px;  ">Olvidate
+                    de los vencimientos y obtené un <br> <strong>25% OFF en tu abono.</strong>
+                    <br>
+                    <br>
+                    <small style="font-style: italic;font-weight: 400;">*Promoción válida solo para
+                        clientes hogar sin otras promociones vigentes.</small>
+                </p>
+            </div>
+        </div>
+        <img style="border-radius: 2px; width: 100%; height: 2px; margin-top: 30px; margin-bottom: 20px;"
+            alt="linea divisoria" src="https://cdn.eternet.cc/mailing/images/line.gif">
+        <ul
+            style="display: flex; list-style-type: none; padding:0px; margin-top: 0px; align-items: center; height: 40px;">
+            <li style="margin-right: 10px;"><a href="https://www.facebook.com/Eternet.Oficial/" target="_blank"
+                    moz-do-not-send="true"><img style="width: 100%;" alt="facebook/eternet.oficial"
+                        src="https://cdn.eternet.cc/mailing/images/face.png"></a></li>
+            <li style="margin-right: 10px;"><a href="https://www.instagram.com/eternet.oficial/?hl=es-la"
+                    target="_blank" moz-do-not-send="true"><img style="width: 100%;" alt="instagram/eternet.oficial"
+                        src="https://cdn.eternet.cc/mailing/images/inst.png"></a></li>
+            <li style="margin-right: 50px;"><a href="https://ar.linkedin.com/company/eternetoficial"
+                    name="linkedin_eternet" target="_blank" moz-do-not-send="true"><img style="width: 100%;"
+                        alt="linkedin" src="https://cdn.eternet.cc/mailing/images/in.png"></a></li>
+            <li style="margin-left: auto"><a href="tel:08003453737" target="_blank" moz-do-not-send="true"><img
+                        style="width: 100%;" alt="0800-345-3737"
+                        src="https://cdn.eternet.cc/mailing/images/tel.png"></a></li>
+        </ul>
+        <div
+            style=" font-weight: 400; line-height: 16px; max-width: 600px; font-size: 12px; color: #000000; text-align: center;">
+            <p style="margin-block-start: 0px; margin-block-end: 0px;">
+                Estimado/a cliente este correo fue
+                <strong style="font-weight: 500; color: #FF5100;">generado automáticamente</strong>, te pedimos por
+                favor
+                <strong style="font-weight: 500; color: #FF5100;">no responderlo</strong>. Te recordamos que podés
+                realizar
+                consultas a través del:
+                <a style="font-weight: 500;text-decoration: none; color: #FF5100;"
+                    href="tel:0800-345-3737">0800-345-3737</a>
+                o por WhatsApp al:
+                <a style="font-weight: 500;text-decoration: none;color:#FF5100"
+                    href="https://wa.me/5492983585651?text=Hola">+5492983585651</a>
+            </p>
+        </div>
+        <div style="max-width: 600px; min-width: 300px; text-align: center">
+            <img style="margin: 20px auto; display: inline-block;" class="mt m-auto"
+                src="https://cdn.eternet.cc/mailing/images/logo.png" alt="Eternet">
+        </div>
+    </div>
+</body>
+
+</html>
