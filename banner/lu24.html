@@ -6,13 +6,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+
+<style>
+.img-publi {
+    object-fit: contain!important;
+    object-position: center;
+    height: 400px;
+    width: 100%
+}
+
+@media only screen and (max-width: 1024px) {
+    .img-publi {
+        height: 340px
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .img-publi {
+        height:290px
+    }
+}
+</style>
+
+
 <body>
-    <div id="banner-eternet" width=300px>
-        <a href="https://promos.eternet.cc/velocidades/300" alt="Eternet Fibra 300MB">
-            <video autoplay playsinline muted="muted" loop>
-                        <source src="https://cdn.eternet.cc/banner/lu24/fibra.mp4" type="video/mp4">
-            </video>
+    <!-- Inicio Banner Eternet -->
+    <div id="" class="img-publi">
+        <a href="https://promos.eternet.cc/velocidades/300" alt="Eternet: Fibra óptica">
+        <video autoplay playsinline muted="muted" loop>
+            <source src="https://cdn.eternet.cc/banner/lu24/fibra-400.mp4" type="video/mp4">
+        </video>
         </a>
     </div>
+<!-- Fin Banner Eternet -->
+
 </body>
 </html>
