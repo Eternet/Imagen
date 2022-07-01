@@ -13,7 +13,7 @@
     background-image: linear-gradient(90deg, #ff008c 0%, #0085e4 100%);
 }
 
-.btn-300:link, .btn-300:visited {
+.btn-300, .btn-300:link, .btn-300:visited {
     color: white;
     background: linear-gradient(90deg, #0038FF 0%, #00D3D1 100%);
     background-image: linear-gradient(90deg, #0038FF 0%, #00D3D1 100%);
