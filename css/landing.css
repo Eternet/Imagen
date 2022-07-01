@@ -22,5 +22,6 @@
 
 .btn-300:hover {
     color: white;
-    background-color: #0038FF;
+    background: linear-gradient(90deg, #0038FF 0%, #0038FF 100%);
+    background-image: linear-gradient(90deg, #0038FF 0%, #0038FF 100%);
 }
