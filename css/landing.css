@@ -8,10 +8,10 @@
     background-image: linear-gradient(90deg, #69003b 0%, #ff58db  100%);
 }
 .bg-100, .bg-100:link, .bg-100:visited {
-    background: #ff58db;
+    background: #69003b;
 }
 .bg-100:hover {
-    background: #69003b;
+    background: #ff58db;
 }
 
 /* ----- 300MB ------ */
@@ -20,10 +20,10 @@
     background-image: linear-gradient(90deg, #003DFF 0%, #00C3D6 100%);
 }
 .bg-300, .bg-300:link, .bg-300:visited  {
-    background: #00C3D6; 
+    background: #003DFF; 
 }
 .bg-300:hover {
-    background: #003DFF;
+    background: #00C3D6;
 }
 
 /* ----- VILLA MITRE ------ */
@@ -44,8 +44,8 @@
     background-image: linear-gradient(90deg, #ff008c 0%, #0085e4 100%);
 }
 .bg-combo, .bg-combo:link, .bg-combo:visited {
-    background: #0085e4;
+    background: #ff008c;
 }
 .bg-combo {
-    background: #ff008c;
+    background: #0085e4;
 }
