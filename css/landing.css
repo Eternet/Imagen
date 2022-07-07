@@ -46,6 +46,6 @@
 .bg-combo, .bg-combo:link, .bg-combo:visited {
     background: #ff008c;
 }
-.bg-combo {
+.bg-combo:hover {
     background: #0085e4;
 }
