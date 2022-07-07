@@ -31,10 +31,10 @@
     background: linear-gradient(90deg, #016435 0%, #01cf6a 100%);
     background-image: linear-gradient(90deg, #016435 0%, #01cf6a 100%);
 }
-.mitre, .mitre:link, .mitre:visited {
+.bg-mitre, .bg-mitre:link, .bg-mitre:visited {
     background: #01cf6a;
 }
-.mitre:hover{
+.bg-mitre:hover{
     background-image:#016435;
 }
 
