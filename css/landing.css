@@ -8,7 +8,8 @@
     background-image: linear-gradient(90deg, #69003b 0%, #ff58db  100%);
 }
 .bg-100, .bg-100:link, .bg-100:visited {
-    background: #ff58db;
+    background: linear-gradient(90deg, #69003b 0%, #ff58db 100%);
+    background-image: linear-gradient(90deg, #69003b 0%, #ff58db  100%);
 }
 .bg-100:hover {
     background: #69003b;
