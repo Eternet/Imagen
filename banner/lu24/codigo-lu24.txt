@@ -1,11 +1,10 @@
-<div id="publicidad405671" class="col-lg-4 mb-4">
+
 <!-- Inicio Banner Eternet -->
     <div id="">
-        <a href="https://promos.eternet.cc/velocidades/300" alt="Eternet: Fibra óptica">
-        <video class="img-publi" autoplay="" playsinline="" muted="muted" loop="">
+        <a href="https://promos.eternet.cc/300-megas" alt="Eternet: Fibra óptica 300MB">
+        <video class="img-publi" autoplay="autoplay" playsinline="" muted="muted" loop="loop">
             <source src="https://cdn.eternet.cc/banner/lu24/fibra-400.mp4" type="video/mp4">
         </video>
         </a>
     </div>
 <!-- Fin Banner Eternet -->
-</div>
