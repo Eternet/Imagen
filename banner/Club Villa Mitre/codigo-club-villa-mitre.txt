@@ -1,6 +1,6 @@
 <!-- Inicio Banner Eternet -->
     <div id="Eternet">
-        <a href="https://promos.eternet.cc/mitre" alt="Eternet: Fibra óptica">
+        <a href="https://promos.eternet.cc/socios-villa-mitre" alt="Eternet: Fibra óptica">
         <video width="300px" class="img-publi" autoplay playsinline muted="muted" loop>
             <source src="https://cdn.eternet.cc/banner/mitre/mitre-socios.mp4" type="video/mp4">
         </video>
