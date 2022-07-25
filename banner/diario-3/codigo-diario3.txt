@@ -1,8 +1,8 @@
 <!-- Inicio Banner Eternet -->
-<div id="Eternet">
-    <a href="https://promos.eternet.cc/300-megas" alt="Eternet: Fibra óptica 300MB">
-    <video class="img-publi" autoplay="autoplay" playsinline="" muted="muted" loop="loop">
-        <source src="https://cdn.eternet.cc/banner/lu24/lu24.mp4" type="video/mp4">
+<div id="Eternet" class="publicidad-espacio-10-inicio" style="text-align: center; " id="publicidad-754991068">
+    <a href="https://promos.eternet.cc/300-megas" alt="Eternet: Fibra óptica 300MB" target="_blank">
+    <video alt="Eternet: Contratar Fibra 300 Megas" width="350" height="350" data-pin-no-hover="true" autoplay="autoplay" playsinline="" muted="muted" loop="loop">
+        <source src="https://cdn.eternet.cc/banner/diario-3/diario-3.mp4" type="video/mp4">
     </video>
     </a>
 </div>
