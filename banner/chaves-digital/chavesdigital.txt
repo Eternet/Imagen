@@ -1,6 +1,6 @@
 <!-- Inicio Banner Eternet -->
 <div id="Eternet">
-    <a href="https://promos.eternet.cc/100-megas" alt="Eternet: Fibra óptica 100MB">
+    <a href="https://promos.eternet.cc/combo" alt="Eternet: Armá tu combo y disfrutá ahorrando">
     <video width="100%" autoplay="autoplay" playsinline="" muted="muted" loop="loop">
         <source src="https://cdn.eternet.cc/banner/chaves-digital/chaves-digital.mp4" type="video/mp4">
     </video>
