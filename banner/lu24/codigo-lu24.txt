@@ -1,6 +1,6 @@
 <!-- Inicio Banner Eternet -->
 <div id="Eternet">
-    <a href="https://promos.eternet.cc/300-megas" alt="Eternet: Fibra óptica 300MB">
+    <a href="https://promos.eternet.com.ar/combo" alt="Eternet: Armá tu combo y disfrutá ahorrando">
     <video class="img-publi" autoplay="autoplay" playsinline="" muted="muted" loop="loop">
         <source src="https://cdn.eternet.cc/banner/lu24/lu24.mp4" type="video/mp4">
     </video>
