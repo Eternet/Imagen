@@ -1,6 +1,6 @@
 <!-- Inicio Banner Eternet -->
 <div id="Eternet">
-    <a href="https://promos.eternet.cc/anticipate-al-verano" alt="Anticipate al verano">
+    <a href="https://promos.eternet.cc/anticipate-al-verano-2024" alt="Anticipate al verano">
     <video class="img-publi" autoplay="autoplay" playsinline="" muted="muted" loop="loop">
         <source src="https://cdn.eternet.cc/banner/cazadores/banner-cazadores.mp4" type="video/mp4">
     </video>
