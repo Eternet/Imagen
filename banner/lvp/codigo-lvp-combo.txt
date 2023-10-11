@@ -1,0 +1,12 @@
+<!-- Inicio Banner Eternet -->
+<div class="publicidad default mt-default mx-auto">
+	<div id="Eternet">
+        <a href="https://promos.eternet.com.ar/combo-internet-movil" alt="Eternet: Promoción Imperdible!">
+    	<video class="img-publi" autoplay="autoplay" playsinline="" muted="muted" loop="loop">
+       	<source src="https://cdn.eternet.cc/banner/lvp/lvp.jpg" type="video/mp4">
+    	</video>
+    	</a>
+	</div>
+</div>
+<!-- Fin Banner Eternet -->
+
