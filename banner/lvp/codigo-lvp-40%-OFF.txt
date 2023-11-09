@@ -1,0 +1,10 @@
+<!-- Inicio Banner Eternet -->
+<div class="publicidad default mt-default mx-auto">
+	<div id="Eternet">
+        <a href="https://wa.me/5492983585651?text=Quiero%20info%20de%20la%20promo%20de%20internet!" title="Eternet: Promoción Imperdible!">
+    	    <img class="img-publi" src="https://cdn.eternet.cc/banner/lvp/lvp.jpg" alt="Eternet: Promoción Imperdible!">
+    	</a>
+	</div>
+</div>
+<!-- Fin Banner Eternet -->
+
