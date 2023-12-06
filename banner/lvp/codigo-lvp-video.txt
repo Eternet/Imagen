@@ -1,7 +1,7 @@
 <!-- Inicio Banner Eternet -->
 <div class="publicidad default mt-default mx-auto">
 	<div id="Eternet">
-        <a href="https://promos.eternet.com.ar/anticipate-al-verano-2024" alt="Eternet: Promoción Imperdible!">
+        <a href="https://wa.me/5492983585651?text=Quiero%20info%20de%20la%20promo%20de%20internet!" alt="Eternet: Promoción Imperdible!">
     	<video class="img-publi" autoplay="autoplay" playsinline="" muted="muted" loop="loop">
        	<source src="https://cdn.eternet.cc/banner/lvp/lvp.mp4" type="video/mp4">
     	</video>
