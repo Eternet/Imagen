@@ -1,6 +1,6 @@
-name: Nueva consulta 
-description: Crear un issue relacionado a una consulta para Atención al Cliente
-title: "Cliente # XXX - Razon Social - Consulta"
+name: Pedido de folletos
+description: Crear un issue relacionado a un pedido de folleteria
+title: "Sector:xxx - tipo de folleto:xxx"
 labels: "Consulta AT"
 projects: "Eternet/50"
 body:
