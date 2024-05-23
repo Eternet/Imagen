@@ -1,0 +1,79 @@
+name: Nueva consulta 
+description: Crear un issue relacionado a una consulta para Atención al Cliente
+title: "Cliente # XXX - Razon Social - Consulta"
+labels: "Consulta AT"
+projects: "Eternet/50"
+body:
+
+
+  - type: dropdown
+    id: Segment
+    attributes:
+      label: "¿A qué segmento corresponde el cliente?"
+      description: "Hogar, Corporativo, o Cliente de Alto Valor."
+      multiple: false
+      options:
+        - Hogar
+        - Corporativo
+        - Cliente de Alto Valor
+    validations:
+      required: true
+      
+      
+  - type: input
+    id: ServiceIP
+    attributes:
+      label: "Dirección IP:"
+      description: "(Si corresponde)"
+      placeholder: "186.148.xyz.xyz"
+    validations:
+      required: false   
+      
+  - type: textarea
+    id: IssueDescription
+    attributes:
+      label: "Detalle de la consulta:"
+      description:
+    validations:
+      required: true
+
+      
+  - type: input
+    id: CustomerAvaibility
+    attributes:
+      label: "Disponibilidad horaria:"
+      description: "Para atención de reclamos es necesario que el cliente se encuentre en el domicilio cuando lo contactemos."
+      placeholder: "Lunes de 8 a 12hs y 16 a 18hs, martes de 15 a 21hs."
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: via
+    attributes:
+      label: "¿Por qué medio se contactó el cliente?"
+      options:
+        - Presencial (en oficina)
+        - Botmaker
+        - Llamada
+        - Otra (aclarar en la descripción)
+    validations:
+      required: true
+      
+  - type: input
+    id: Contact
+    attributes:
+      label: "Datos de contacto:"
+      description: "¿Whatsapp o llamada? y número de contacto."
+      placeholder: "2983xxxxxx"
+    validations:
+      required: true
+      
+      
+  - type: input
+    id: CopyTo
+    attributes:
+      label: "Con copia a:"
+      description: "Mencionar sectores o personas en este campo si es necesario"
+      value: "@Eternet/atencion-al-cliente"
+    validations:
+      required: true      
