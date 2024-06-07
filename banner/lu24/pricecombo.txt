@@ -1,0 +1,114 @@
+<section id="price" class="content-wrap clearfix pt-0">
+        <div class="container ps-3 pe-3 ps-lg-4 pe-lg-4">
+          <div class="heading-block center">
+            <h2>COMBOS</h2>
+            <span>La mejor combinación de Internet + Móvil. ¡Calculá los costos y sumate!</span>
+          </div>
+          <div class="row justify-content-center g-5">
+            <div class="col-md-7 col-lg-4 animate__animated animate__fadeInUp">
+                <div class="pricing-box text-center pricing-content">
+                    <div class="tip-label-box">
+                        <img src="https://cdn.eternet.cc/MainSite/Internet/recommended.svg" alt="Recomendado">
+                    </div>
+                    <div class="pricing-title title-sm pt-3 pb-3 bg-3 d-flex flex-column justify-content-center align-items-center">
+                        <div class="d-flex align-items-end mb-1">
+                            <h3 class= "tittle-combos">300</h3>
+                            <div class="pricing-combos">
+                                <span class="d-block service-combos">INTERNET</span>
+                                <span class="d-block speed-combos">MEGAS</span>
+                            </div>
+                        </div>
+                        <div class="positive-combos">+</div>
+                        <div class="d-flex align-items-end mt-0">
+                            <h3 class="tittle-number-line">3</h3>
+                            <div class="text-left pricing-combos">
+                                <span class="d-block movil-combos">MÓVIL</span>
+                                <span class="d-block line-combos">LÍNEAS <small class="pack-movil-combos">(de 3GB)</small></span>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="mb-0 pricing-promo bg-promo-3">PROMO 25% OFF</p>
+                    <div class="pricing-price pt-3">
+                        <span class="price-unit"></span>$ 2900<span class="price-tenure">/mes</span>
+                    </div>
+                    <div class="pb-3">
+                        <span class="price-list">Ahorrá hasta </span><span class="price-list">$20000</span>
+                    </div>
+                    <div class="pricing-action px-4">
+                        <a href="#" class="button button-3d pt-2 pb-2 btn-block btn-lg w-100 combo-midification"> <strong>MODIFICÁ</strong> ESTE COMBO</a>
+                    </div>
+                    <div class="pricing-action px-4">
+                        <a href="#" class="button button-3d pt-2 pb-2 btn-block btn-lg w-100">Lo quiero</a>
+                    </div>
+                </div>
+            </div>
+             <div class="col-md-7 col-lg-4 animate__animated animate__fadeInUp">
+                <div class="pricing-box text-center pricing-content">
+                    <div class="pricing-title title-sm pt-3 pb-3 bg-2 d-flex flex-column justify-content-center align-items-center">
+                        <div class="d-flex align-items-end mb-1">
+                            <h3 class= "tittle-combos">300</h3>
+                            <div class="pricing-combos">
+                                <span class="d-block service-combos">INTERNET</span>
+                                <span class="d-block speed-combos">MEGAS</span>
+                            </div>
+                        </div>
+                        <div class="positive-combos">+</div>
+                        <div class="d-flex align-items-end mt-0">
+                            <h3 class="tittle-number-line">2</h3>
+                            <div class="text-left pricing-combos">
+                                <span class="d-block movil-combos">MÓVIL</span>
+                                <span class="d-block line-combos">LÍNEAS <small class="pack-movil-combos">(de 3GB)</small></span>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="mb-0 pricing-promo bg-promo-2">SIN PROMOCIÓN</p>
+                    <div class="pricing-price pt-3">
+                        <span class="price-unit"></span>$ 2900<span class="price-tenure">/mes</span>
+                    </div>
+                    <div class="pb-3">
+                        <span class="price-list">Ahorrá hasta </span><span class="price-list">$20000</span>
+                    </div>
+                    <div class="pricing-action px-4">
+                        <a href="#" class="button button-3d pt-2 pb-2 btn-block btn-lg w-100 combo-midification"> <strong>MODIFICÁ</strong> ESTE COMBO</a>
+                    </div>
+                    <div class="pricing-action px-4">
+                        <a href="#" class="button button-3d pt-2 pb-2 btn-block btn-lg w-100">Lo quiero</a>
+                    </div>
+                </div>
+            </div> <div class="col-md-7 col-lg-4 animate__animated animate__fadeInUp">
+                <div class="pricing-box text-center pricing-content">
+                    <div class="pricing-title title-sm pt-3 pb-3 bg-1 d-flex flex-column justify-content-center align-items-center">
+                        <div class="d-flex align-items-end mb-1">
+                            <h3 class="tittle-combos">300</h3>
+                            <div class="pricing-combos">
+                                <span class="d-block service-combos">INTERNET</span>
+                                <span class="d-block speed-combos">MEGAS</span>
+                            </div>
+                        </div>
+                        <div class="positive-combos">+</div>
+                        <div class="d-flex align-items-end mt-0">
+                            <h3 class="tittle-number-line">1</h3>
+                            <div class="text-left pricing-combos">
+                                <span class="d-block movil-combos">MÓVIL</span>
+                                <span class="d-block line-combos">LÍNEA <small class="pack-movil-combos">(de 3GB)</small></span>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="mb-0 pricing-promo bg-promo-1">SIN PROMOCIÓN</p>
+                    <div class="pricing-price pt-3">
+                        <span class="price-unit"></span>$ 2900<span class="price-tenure">/mes</span>
+                    </div>
+                    <div class="pb-3">
+                        <span class="price-list">Ahorrá hasta </span><span class="price-list">$20000</span>
+                    </div>
+                    <div class="pricing-action px-4">
+                        <a href="#" class="button button-3d pt-2 pb-2 btn-block btn-lg w-100 combo-midification"> <strong>MODIFICÁ</strong> ESTE COMBO</a>
+                    </div>
+                    <div class="pricing-action px-4">
+                        <a href="#" class="button button-3d pt-2 pb-2 btn-block btn-lg w-100">Lo quiero</a>
+                    </div>
+                </div>
+            </div>
+          </div>
+        </div>
+      </section>
