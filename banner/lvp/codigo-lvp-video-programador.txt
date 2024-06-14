@@ -1,0 +1,12 @@
+<!-- Inicio Banner Eternet -->
+<div class="publicidad default mt-default mx-auto">
+	<div id="Eternet">
+        <a href="https://forms.office.com/r/99V8dCY0bd" alt="Eternet: Oferta laboral">
+    	<video class="img-publi" autoplay="autoplay" playsinline="" muted="muted" loop="loop">
+       	<source src="https://cdn.eternet.cc/banner/lvp/lvp.mp4" type="video/mp4">
+    	</video>
+    	</a>
+	</div>
+</div>
+<!-- Fin Banner Eternet -->
+

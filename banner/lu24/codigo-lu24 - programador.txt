@@ -1,0 +1,10 @@
+<!-- Inicio Banner Eternet -->
+<div id="Eternet">
+    <a href="https://forms.office.com/r/99V8dCY0bd" alt="">
+    <video class="img-publi" autoplay="autoplay" playsinline="" muted="muted" loop="loop">
+        <source src="https://cdn.eternet.cc/banner/lu24/lu24.mp4" type="video/mp4">
+    </video>
+    </a>
+</div>
+<!-- Fin Banner Eternet -->
+
