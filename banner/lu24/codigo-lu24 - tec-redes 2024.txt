@@ -1,10 +1,9 @@
 <!-- Inicio Banner Eternet -->
 <div id="Eternet">
-    <a href="https://forms.office.com/r/TFdq8JkPL2" alt="Eternet: Oferta laboral!">
+    <a href="https://forms.office.com/pages/responsepage.aspx?id=FA7U7Iq0YUiVhjjNye4SffFkf6CHfz1GntzZUzpL5LRUNDdKUFAzRDBaVTdITVoyRjlWTlVINzJMTC4u&route=shorturl" alt="Eternet: Oferta laboral!">
     <video class="img-publi" autoplay="autoplay" playsinline="" muted="muted" loop="loop">
         <source src="https://cdn.eternet.cc/banner/lu24/tec-redes.mp4" type="video/mp4">
     </video>
     </a>
 </div>
 <!-- Fin Banner Eternet -->
-
