@@ -1,7 +1,7 @@
 <!-- Inicio Banner Eternet -->
 <div  id="Eternet" class="col-sm">
     <div class="newscard-ad-bx">
-        <a href="https://promos.eternet.com.ar/anticipate-al-verano-2024" alt="Eternet: Armá tu combo y disfrutá ahorrando" target="_blank">
+        <a href="https://wa.me/5492983585651?text=Hola%20vi%20la%20promo%20en%20Chaves-Digital%20del%20Hot%20Sale%20y%20quiero%20mas%20info" alt="Eternet: Hot Sale" target="_blank">
             <video class="img-publi" autoplay="autoplay" playsinline="" muted="muted" loop="loop">
                 <source src="https://cdn.eternet.cc/banner/caynet/caynet.mp4" type="video/mp4" alt="Advertisement">
             </video>
