@@ -1,0 +1,78 @@
+{
+  "cdnBaseUrl": "https://cdn.eternet.cc/banner",
+  "media": {
+    "caynet": {
+      "folder": "caynet",
+      "format": "mp4",
+      "width": 700,
+      "height": 700,
+      "legacyActiveFile": "caynet.mp4",
+      "canonicalFile": "banner.mp4",
+      "template": "caynet-video"
+    },
+    "cazadores": {
+      "folder": "cazadores",
+      "format": "mp4",
+      "width": 244,
+      "height": 440,
+      "legacyActiveFile": "banner-cazadores.mp4",
+      "canonicalFile": "banner.mp4",
+      "template": "video-class"
+    },
+    "chaves-digital": {
+      "folder": "chaves-digital",
+      "format": "mp4",
+      "width": 500,
+      "height": 500,
+      "legacyActiveFile": "promo.mp4",
+      "canonicalFile": "banner.mp4",
+      "template": "video-fluid"
+    },
+    "club-mitre": {
+      "folder": "club-mitre",
+      "format": "mp4",
+      "width": 400,
+      "height": 400,
+      "legacyActiveFile": "mitre-socios.mp4",
+      "canonicalFile": "banner.mp4",
+      "template": "video-fluid"
+    },
+    "el-fenix": {
+      "folder": "el-fenix",
+      "format": "jpg",
+      "width": 450,
+      "height": 450,
+      "legacyActiveFile": "eternet-fenix_00121.jpg",
+      "canonicalFile": "banner.jpg",
+      "template": "image-fluid"
+    },
+    "fm-sol-juarez": {
+      "folder": "fm-sol-juarez",
+      "format": "jpg",
+      "width": 500,
+      "height": 500,
+      "legacyActiveFile": "hot-sale.jpg",
+      "canonicalFile": "banner.jpg",
+      "template": "image-fluid"
+    },
+    "lu24": {
+      "folder": "LU24",
+      "publicFolder": "LU24",
+      "format": "mp4",
+      "width": 500,
+      "height": 500,
+      "legacyActiveFile": "lu24.mp4",
+      "canonicalFile": "banner.mp4",
+      "template": "video-class"
+    },
+    "lvp": {
+      "folder": "lvp",
+      "format": "mp4",
+      "width": 303,
+      "height": 250,
+      "legacyActiveFile": "lvp.mp4",
+      "canonicalFile": "banner.mp4",
+      "template": "lvp-video"
+    }
+  }
+}
