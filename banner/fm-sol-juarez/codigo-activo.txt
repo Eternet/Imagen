@@ -1,0 +1,4 @@
+<!-- Banner Eternet activo — FM Sol Juárez -->
+<a href="https://promos.eternet.com.ar/internet-movil" target="_blank" rel="noopener sponsored" aria-label="Conocé la propuesta de Eternet">
+  <img src="https://cdn.eternet.cc/banner/fm-sol-juarez/hot-sale.jpg" width="500" height="500" alt="Promoción de Eternet" style="display:block;max-width:100%;height:auto;">
+</a>
