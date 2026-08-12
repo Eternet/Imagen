@@ -1,0 +1,6 @@
+<!-- Club Mitre — Eternet Internet + Móvil -->
+<a href="https://promos.eternet.com.ar/internet-movil" target="_blank" rel="noopener sponsored" aria-label="Conocé Internet más Móvil de Eternet">
+  <video width="400" height="400" autoplay muted loop playsinline preload="metadata" style="display:block;max-width:100%;height:auto;">
+    <source src="https://cdn.eternet.cc/banner/club-mitre/eternet-internet-movil-club-mitre.mp4" type="video/mp4">
+  </video>
+</a>

@@ -1,0 +1,4 @@
+<!-- El Fénix — Eternet Internet + Móvil -->
+<a href="https://promos.eternet.com.ar/internet-movil" target="_blank" rel="noopener sponsored" aria-label="Conocé Internet más Móvil de Eternet">
+  <img src="https://cdn.eternet.cc/banner/el-fenix/el-fenix-450x450.jpg" width="450" height="450" alt="Internet más Móvil de Eternet" style="display:block;max-width:100%;height:auto;">
+</a>

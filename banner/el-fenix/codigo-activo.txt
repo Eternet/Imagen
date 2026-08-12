@@ -1,0 +1,4 @@
+<!-- Banner Eternet activo — El Fénix -->
+<a href="https://promos.eternet.com.ar/internet-movil" target="_blank" rel="noopener sponsored" aria-label="Conocé la propuesta de Eternet">
+  <img src="https://cdn.eternet.cc/banner/el-fenix/eternet-fenix_00121.jpg" width="450" height="450" alt="Promoción de Eternet" style="display:block;max-width:100%;height:auto;">
+</a>
