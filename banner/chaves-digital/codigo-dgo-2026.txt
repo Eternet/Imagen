@@ -1,0 +1,6 @@
+<!-- Chaves Digital — Eternet Internet por Fibra + DGO -->
+<a href="https://dgo.eternet.com.ar/" target="_blank" rel="noopener sponsored" aria-label="Conocé Internet por Fibra 500 Mbps más DGO de Eternet">
+  <video width="500" height="500" autoplay muted loop playsinline preload="metadata" style="display:block;max-width:100%;height:auto;">
+    <source src="https://cdn.eternet.cc/banner/chaves-digital/eternet-internet-movil-chaves-digital.mp4" type="video/mp4">
+  </video>
+</a>
